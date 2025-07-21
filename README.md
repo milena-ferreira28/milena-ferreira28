@@ -1,4 +1,8 @@
-## Oii, eu sou a Milena!✨
+<div align="center">
+
+## Oii, eu sou a Milena! ✨
+
+</div>
 
  -👩‍🎓 Estudante de Ciência da Computação na UFPel <br>
  -💓 Faço parte do projeto "Gurias da Comp" <br>
