@@ -8,7 +8,7 @@
  -💓 Faço parte do projeto "Gurias da Comp" <br>
  -📖 Atualmente focando em Python e Machine Learning <br>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-ferreira28&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-ferreira28&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 📊 GitHub Status:
 ![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=milena-ferreira28&show_icons=true&theme=radical)
